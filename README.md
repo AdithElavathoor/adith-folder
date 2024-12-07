@@ -1,2 +1,3 @@
 # adith-folder
-tis is my first git folder
+This is my first git folder
+Author - Adith Elavathoor
